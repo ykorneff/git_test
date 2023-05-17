@@ -2,8 +2,9 @@ This is the initial file.
 
 Master branch fixed.
 
-Version 3
+Version 4
 
 New version.
 
 add file: content.txt
+add file: morecontent.txt
