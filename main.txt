@@ -2,9 +2,8 @@ This is the initial file.
 
 Master branch fixed.
 
-Version 2.3
+Version 3
 
-GitHub.
-GitHub. for pull
+New version.
 
-Test git push.
+add file: content.txt
