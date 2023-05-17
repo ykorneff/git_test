@@ -2,6 +2,7 @@ This is the initial file.
 
 Master branch fixed.
 
-Version 2.1
+Version 2.2
 
 GitHub.
+GitHub. for pull
